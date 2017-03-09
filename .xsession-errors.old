@@ -1,0 +1,14 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: unity-settings-daemon main process (2352) terminated with status 1
+init: hud main process (2357) terminated with status 1
+init: unity-panel-service main process (2374) terminated with status 1
+init: indicator-printers main process (2448) terminated with status 1
+init: gnome-session (Unity) main process (2369) terminated with status 1
+init: indicator-bluetooth main process (2443) killed by TERM signal
+init: indicator-power main process (2444) killed by TERM signal
+init: indicator-datetime main process (2446) killed by TERM signal
+init: indicator-session main process (2457) killed by TERM signal
+init: indicator-application main process (2460) killed by TERM signal
+init: Disconnected from notified D-Bus bus
